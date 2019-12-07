@@ -30,5 +30,3 @@ To run eslint manually:
 ```
 npm run lint
 ```
-
-
